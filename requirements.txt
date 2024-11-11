@@ -5,3 +5,6 @@ PyPDF2
 FPDF 
 streamlit-quill 
 fpdf2
+pdfkit
+weasyprint
+xhtml2pdf
